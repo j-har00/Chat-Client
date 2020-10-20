@@ -1,1 +1,1 @@
-# Chat-Client
+# Chat Client
